@@ -1,4 +1,5 @@
 1.this is a test.
 2.this is a test two.
 3.fixed a bug.
-4.测试一个冲突
+4.修复一个冲突
+
